@@ -3,7 +3,7 @@
 
 ### Outline
 
-Public opinion has long held sway over company valuations, with a positive public opinion a company can be evaluated favorably and with a negative it can lose billions. In the past, our opinions were formed based on information consumed through the nightly news. This has now shifted to the internet, with more people engaging with the news through an organization’s website, than their nightly programing. The theme this paper explores is if a correlation exists between sentiments expressed on news websites and the overall performance of stock market indexes.
+Public opinion has long held sway over company valuation, with a positive public opinion a company can be evaluated favorably and with a negative it can lose billions. In the past, our opinions were formed based on information consumed through the nightly news. This has now shifted to the internet, with more people engaging with the news through an organization’s website, than their nightly programing. The theme this paper explores is if a correlation exists between sentiments expressed on news websites and the overall performance of stock market indexes.
 
 The research questions that will be addressed are; Do sentiments expressed by news sites have a correlation on a stock market index’s performance? And, is it possible to predict the daily or weekly shift in the index based on the sentiments expressed? 
 
