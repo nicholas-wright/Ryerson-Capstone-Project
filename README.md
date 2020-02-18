@@ -9,5 +9,7 @@ The research questions that will be addressed are; Do sentiments expressed by ne
 
 Two datasets will be used to accomplish this. The first is the daily performance (5 attributes) of the Nasdaq, S&P 500, NYSE, Dow Jones and TSX indexes. This dataset encompasses the years 2015 - 2017. These datasets will be collected from Yahoo Finance historical data. The second dataset is a collection of 143,000+ headlines with 8 attributes, taken from 15 popular news sites (New York Times, CNN, Business Insider etc.). Sentiment analysis will be used to determine a positive (buy), negative (sell) or neutral (hold) stance. Once sentiment has been determined on the second dataset, the two datasets will be merged and ordered based on date. These three sentiments will then be used as classifiers to train a predictive model. Linear regression and time series analysis will also be used to discover significant features and trends within the amalgamated dataset.
 
+### Data Cleaning
 
+Files : https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Data%20Cleaning.ipynb
 
