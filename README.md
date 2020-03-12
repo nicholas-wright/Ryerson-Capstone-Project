@@ -13,3 +13,6 @@ Two datasets will be used to accomplish this. The first is the daily performance
 
 Files : https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Data%20Cleaning.ipynb
 
+#### Literature Review
+
+File: https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Literature%20Review.pdf
