@@ -23,7 +23,9 @@ File: https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Li
 
 ### Final Models
 
+Text Classification : https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Final%20Results%20and%20Report/Text%20Classification%20Machine%20Learning%20Model.ipynb
 
+Stock Market Prediction: https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Final%20Results%20and%20Report/Text%20Classification%20Machine%20Learning%20Model.ipynb
 
 ### Final Report
 
