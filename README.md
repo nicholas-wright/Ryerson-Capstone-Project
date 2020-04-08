@@ -31,3 +31,4 @@ Stock Market Prediction: https://github.com/nicholas-wright/Ryerson-Capstone-Pro
 
 ### Final Report
 
+https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Final%20Results%20and%20Report/Final%20Report.pdf
