@@ -16,3 +16,14 @@ Files : https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/
 ### Literature Review
 
 File: https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Literature%20Review.pdf
+
+### Initial Results and Exploration
+
+
+
+### Final Models
+
+
+
+### Final Report
+
