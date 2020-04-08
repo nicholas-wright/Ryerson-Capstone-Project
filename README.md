@@ -19,7 +19,9 @@ File: https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Li
 
 ### Initial Results and Exploration
 
+Part 1: https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Initial%20Results/Exploratory%20Data%20Analysis%20pt.1.ipynb
 
+Part 2: https://github.com/nicholas-wright/Ryerson-Capstone-Project/blob/master/Initial%20Results/Exploratory%20Data%20Analysis%20Pt.2.ipynb
 
 ### Final Models
 
